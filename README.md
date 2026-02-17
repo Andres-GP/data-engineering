@@ -4,14 +4,6 @@ An end-to-end data engineering pipeline that orchestrates data ingestion, proces
 
 ---
 
-## 🚀 Project Overview
-
-This project serves as a comprehensive guide to building an end-to-end data engineering pipeline. It covers each stage from data ingestion to processing and finally to storage.
-
-👉 **[GitHub Repository](https://github.com/airscholar/e2e-data-engineering)**
-
----
-
 ## 🏗️ System Architecture
 
 The project is designed with the following components, creating a robust and scalable data pipeline:
@@ -83,13 +75,3 @@ Follow these steps to get the pipeline running on your local machine.
 ### ▶️ Running the Pipeline
 
 Once all services are up and running, the pipeline should automatically start as defined by the Airflow DAGs. You can monitor the workflow and check logs through the respective web UIs of the services (e.g., Airflow webserver, Kafka Control Center).
-
-For a complete, step-by-step walkthrough and a practical demonstration, check out the official video tutorial.
-
----
-
-## 📺 Watch the Video Tutorial
-
-[![YouTube Video Tutorial](https://img.youtube.com/vi/GqAcTrqKcrY/0.jpg)](https://www.youtube.com/watch?v=GqAcTrqKcrY)
-
-**▶️ Click the image above to watch on YouTube.**
