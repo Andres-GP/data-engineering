@@ -56,13 +56,13 @@ Follow these steps to get the pipeline running on your local machine.
 1.  **Clone the repository**
 
     ```bash
-    git clone https://github.com/airscholar/e2e-data-engineering.git
+    git clone https://github.com/airscholar/data-engineering.git
     ```
 
 2.  **Navigate to the project directory**
 
     ```bash
-    cd e2e-data-engineering
+    cd data-engineering
     ```
 
 3.  **Start all services with Docker Compose**
